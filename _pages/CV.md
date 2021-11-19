@@ -1,11 +1,8 @@
 ---
 permalink: /CV/
-title: "CV"
-author_profile: true
+title: "Curriculum Vitae"
 ---
 
-
-# Curriculum Vitae
 
 ## Personal Data
 
