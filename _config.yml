@@ -23,13 +23,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: Falarconp
 minimal_mistakes_skin: neon
 search: true
+teaser: "/assets/images/as209.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-teaser: "/assets/images/as209.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+
 
 
 include:
@@ -86,10 +87,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
