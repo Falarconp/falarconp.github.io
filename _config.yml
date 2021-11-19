@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Weolcome to my personal webpage!
-email:
+email: falarcon@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, I am Felipe Alarcón Peña, a Ph.D. candidate at Univiersity of michigan working in the astrochmeistry of planet-forming disks(among other things)
   under the supervision of Dr. Edwin(Ted) Bergin.
@@ -28,6 +28,8 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
+teaser: /assets/images/as209.png
+
 
 
 include:
