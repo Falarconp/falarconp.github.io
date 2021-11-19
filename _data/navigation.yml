@@ -2,8 +2,8 @@ main:
   - title: "About me"
     url: /about/
   - title: "My Research"
-    url: /my_research/
+    url: /my_research.md/
   - title: "CV"
-    url: /CV/
+    url: /CV.md/
 
 
