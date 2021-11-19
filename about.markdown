@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About mw
+permalink: /about/ CV
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello and welcome to my webpage. My anem is Felipe Alarcon Pena. I'm a Ph.D candidate at ehe University of Michigan trying to understand the chemistry in planet-forming disks.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+As a Chilean national I enjoy the mountains, the bread and latin music, and obviously the clear skies. I'm a catlover and a running enthusiast in my free time.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find my publications through my ORCID
+[0000-0002-2692-7862](https://orcid.org/my-orcid?orcid=0000-0002-2692-7862)
+
+In ADS
+[ADS](https://orcid.org/my-orcid?orcid=0000-0002-2692-7862) /
 
 
 [jekyll-organization]: https://github.com/jekyll
