@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Weolcome to my webpage!
-email:
+email: falarcon@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Ph.D.(c) in Astronomy at Umich working under the supervision of Dr. Edwin(Ted) Bergin. 
-  I am mostly interested in the chemistry of planet formation processes.
+  I am a Ph.D.(c) in Astronomy at the University of Michigan. my main research work is about the chemistry in planet-forming regions using either a theoretical or 
+  observational approach with  molecualr tracers.
 #twitter_username: username
 github_username: Falarconp
 minimal_mistakes_skin: neon
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Felipe Alarcón Peña"
   avatar : "/assets/images/felipe-alarcon.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "  I am a Ph.D.(c) in Astronomy at Umich working under the supervision of Dr. Edwin(Ted) Bergin. I am mostly interested in the chemistry of planet formation processes."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
