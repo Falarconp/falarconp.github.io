@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Felipe Alarcón Peña"
-  avatar : "/assets/images/felipe_alarcon.jpeg"
+  avatar : "/assets/images/felipe-alarcon.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "GitHub"
