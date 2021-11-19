@@ -1,9 +1,9 @@
 main:
+  - title: "About me"
+    url: /about/
+  - title: "My Research"
+    url: /my_research/
   - title: "CV"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "My research"
-    url: /my_research/
-  - title: "About"
-    url: /about/
+
+
