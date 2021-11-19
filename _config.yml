@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Weolcome to my personal webpage!
-email: falarcon@umich.edu
+title: Weolcome to my webpage
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, I am Felipe Alarcón Peña, a Ph.D. candidate at Univiersity of michigan working in the astrochmeistry of planet-forming disks(among other things)
-  under the supervision of Dr. Edwin(Ted) Bergin.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 #twitter_username: username
 github_username: Falarconp
 minimal_mistakes_skin: neon
@@ -28,9 +29,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-teaser: /assets/images/as209.png
-
-
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -57,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Felipe M. Alarcón Peña"
-  avatar : "/assets/images/felipe-alarcon.jpeg"
-  bio    : "Ph.D. candidate in Astrophysics at Umich working in the astrochemistry of planet formation."
+  name   : "Felipe Alarcón Peña"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
