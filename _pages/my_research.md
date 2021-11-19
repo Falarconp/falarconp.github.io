@@ -1,7 +1,6 @@
 ---
 permalink: /my_research/
 title: "My Research"
-author_profile: true
 ---
 
 
