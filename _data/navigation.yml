@@ -1,7 +1,8 @@
 main:
-  - title: "Categories"
-    url: /CV/
-  - title: "Tags"
-    url: /my_research/
-  - title: "About"
+  - title: "About me"
     url: /about/
+  - title: "My Research"
+    url: /my_research/
+  - title: "CV"
+    url: /CV/
+
