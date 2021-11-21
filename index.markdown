@@ -23,5 +23,5 @@ Protoplanetary disks are thought to be the birth places of planets and as such t
 ![MAPS Gallery, Oberg et al 2021, Law et al, 2021](/assets/images/maps.png)
 
 
-Images  from the dust millimetric particles such as the DSHARP Gallery shows that these disk are very rich in substructures, which could be interpreted as potential signpots of ongoing planet formation. Recent images from the MAPS Collaboration show line emission from important gas tracers in five of these disks showing htey have even richer structures across different molecular species, making them interesting objects to study
+Images  from the dust millimetric particles such as the DSHARP survey (Andrews et al. 2018) shows that these disk are very rich in substructures, which could be interpreted as potential signpots of ongoing planet formation. Recent images from the MAPS Collaboration (Ober et al. 2021) show line emission from important gas tracers in five of these disks showing htey have even richer structures across different molecular species, making them interesting objects to study
 
