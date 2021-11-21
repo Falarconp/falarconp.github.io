@@ -16,7 +16,7 @@ title: "Curriculum Vitae"
  - **M.Sc in Astronomy** -- Universidad de Chile, March 2017 - January 2019
  - **Ph.D in Astronomy** -- University of Michigan, September 2018 -
 
-## Achievements, Awards and Grants (from most recent)
+## Achievements, Awards and Grants (from the most recent)
 
  - Rackham International Student Fellowship, University of Michigan, 2019.
  - Rackham Conference Travel Grant, University of Michigan, 2019.
