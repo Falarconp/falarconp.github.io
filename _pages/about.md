@@ -10,7 +10,7 @@ I was borned in Santiago, Chile. I fell in love with the stars there. outside of
 What really motivated my love for Astronomy is this particularly well-known image of the first protoplanetary disk taken at high spatial resolution with ALMA. 
 
 
-![HL Tau, ALMA Collaboration](https:falarcon.github.io/assets/images/hltau.png "")
+![HL Tau, ALMA Collaboration](/assets/images/hltau.png)
 
 This image of HL tau taken by the ALMA Collaboration convinced to be an astronomer and study planet formation.
 
