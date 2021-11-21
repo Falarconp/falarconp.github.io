@@ -90,7 +90,7 @@ title: "Curriculum Vitae"
  - Teaching Assistant Newtonian Systems, Universidad de Chile, Spring 2015 - Spring 2016.
  - Teaching Introduction to the Newtonian Physics, Universidad de Chile, Fall 2015.
 
-## Others
+## Service and Others
 
  - Star and Planet Formation Group Organizer, University of Michigan, Fall 2021 - 
  - Grad Student Lunch with Colloquium Speaker Organizer, University of Michigan, Fall 2021 - 
