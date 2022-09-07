@@ -80,6 +80,7 @@ title: "Curriculum Vitae"
 ## Code Proficiency
 
 - Python, C++, Julia, R, Matlab
+- Fargo3D, RADMC-3D, rac-2d, Meudon
 
 ## Teaching Experience
 
@@ -92,7 +93,7 @@ title: "Curriculum Vitae"
 
 ## Service and Others
 
- - Star and Planet Formation Group Organizer, University of Michigan, Fall 2021 - 
- - Grad Student Lunch with Colloquium Speaker Organizer, University of Michigan, Fall 2021 - 
+ - Star and Planet Formation Group Organizer, University of Michigan, Fall 2021 - Winter 2021
+ - Grad Student Lunch with Colloquium Speaker Organizer, University of Michigan, Fall 2021 - Winter 2021
  
  
