@@ -101,10 +101,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
   
  # Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : "G-4VQB61FZWJ"
-    anonymize_ip         : # true, false (default)
+
+ google_analytics: 'G-HFD2M3F8SV'
+
