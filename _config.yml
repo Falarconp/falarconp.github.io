@@ -105,6 +105,11 @@ tag_archive:
   
  # Analytics
 
-google_analytics: G-HFD2M3F8SV
+analytics:
+  provider: "custom"
+  google:
+    tracking_id: "G-HFD2M3F8SV"
+    anonymize_ip: false # default
+
 
 
