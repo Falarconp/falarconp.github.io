@@ -55,12 +55,12 @@ planetary Disk with Planet Carved Gaps and Dust Rings.
 
 ### Other Papers(* denotes 2nd author):
 
-5. \* Bosman, A. D.,**Alarcón, F.**, Bergin, E. A., et al. 2021b, arXiv e-prints,
+5. * Bosman, A. D.,**Alarcón, F.**, Bergin, E. A., et al. 2021b, arXiv e-prints,
 arXiv:2109.06221. https://arxiv.org/abs/2109.06221. Molecules with ALMA at
 Planet-forming Scales(MAPS) VI: Sub-stellar O/H and C/H and super-stellar
 in planet feeding gas.
 
-6. \* Bosman, A. D.,**Alarcón, F.**, Zhang, K., Bergin, E. A. 2021a, ApJ, 910,
+6. * Bosman, A. D.,**Alarcón, F.**, Zhang, K., Bergin, E. A. 2021a, ApJ, 910,
 3, doi: 10.3847/1538-4357/abe127. Destruction of Refractory Carbon Grains
 Drives the Final Stage of Protoplanetary Disk Chemistry.
 
@@ -172,7 +172,7 @@ structure”, Astrochemical Frontiers: Quarantine Edition, July 2020
 
 ## Service and Others
 
- -Member of Local Organizing Committee(LOC) 2023 Kavli-IAU Astrochemistry
+ - Member of Local Organizing Committee(LOC) 2023 Kavli-IAU Astrochemistry
  Symposium. Astrochemistry VIII - From the First Galaxies to the Formation
  of Habitable Worlds.
  - Colloquium Speaker Lunch organizer with Graduate Students, University of
