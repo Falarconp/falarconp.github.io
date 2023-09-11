@@ -38,10 +38,10 @@ h-index = 18
 1. **Alarcón, F.**, & Bergin, E. A., submitted to ApJ
    Thermal Structure and Millimeter Emission of Protoplanetary Disks with Embedded Planets
    from radiative transfer modeling.
-
-<>2. **Alarcón, F.**, Bergin, E. A. & Cugno G. submitted to ApJ
-<> Extinction values towards embedded planets in protoplanetary disks hydrodynamic simulations.
-
+<!---
+2. **Alarcón, F.**, Bergin, E. A. & Cugno G. submitted to ApJ
+ Extinction values towards embedded planets in protoplanetary disks hydrodynamic simulations.
+-->
 3. **Alarcón, F.**, Casassus, S., Lyra, W., P ́erez, S., Cieza, L., submitted to MNRAS
 Viscous heating as the dominant heat source inside the water snowline of V883
 
@@ -71,11 +71,9 @@ in planet feeding gas.
 3, doi: 10.3847/1538-4357/abe127. Destruction of Refractory Carbon Grains
 Drives the Final Stage of Protoplanetary Disk Chemistry.
 
-9. Chown, R., Sidhu, A., Peeters, E. et al. PDRs4All IV. An embarrassment of riches: Aromatic
-11. infrared bands in the Orion Bar, A&A in press (2023). 10.48550/arXiv.2308.16733
+9. Chown, R., Sidhu, A., Peeters, E. et al. PDRs4All IV. An embarrassment of riches: Aromatic infrared bands in the Orion Bar, A&A in press (2023). 10.48550/arXiv.2308.16733
 
-10. Habart, E., Peeters, E., Berné, O. et al. PDRs4All II: JWST's NIR and MIR
-13. imaging view of the Orion Nebula, A&A in press (2023). 10.48550/arXiv.2308.16732
+10. Habart, E., Peeters, E., Berné, O. et al. PDRs4All II: JWST's NIR and MIR imaging view of the Orion Nebula, A&A in press (2023). 10.48550/arXiv.2308.16732
 
 11. Berné, O., Martin-Drumel, MA., Schroetter, I. et al. Formation of the Methyl
 Cation by Photochemistry in a Protoplanetary Disk. Nature (2023). https://doi.org/10.1038/s415
