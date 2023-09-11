@@ -14,7 +14,7 @@ title: "Curriculum Vitae"
 
  - **B.Sc in Astronomy** -- Universidad de Chile, March 2014 - December 2016
  - **M.Sc in Astronomy** -- Universidad de Chile, March 2017 - January 2019
- - **Ph.D in Astronomy** -- University of Michigan, September 2018 -
+ - **Ph.D in Astronomy** -- University of Michigan, September 2018 - 2024(expected)
 
 ## Achievements, Awards and Grants (from the most recent)
 
@@ -39,8 +39,8 @@ h-index = 18
    Thermal Structure and Millimeter Emission of Protoplanetary Disks with Embedded Planets
    from radiative transfer modeling.
 
-%2. **Alarcón, F.**, Bergin, E. A. & Cugno G. submitted to ApJ
-% Extinction values towards embedded planets in protoplanetary disks hydrodynamic simulations.
+<>2. **Alarcón, F.**, Bergin, E. A. & Cugno G. submitted to ApJ
+<> Extinction values towards embedded planets in protoplanetary disks hydrodynamic simulations.
 
 3. **Alarcón, F.**, Casassus, S., Lyra, W., P ́erez, S., Cieza, L., submitted to MNRAS
 Viscous heating as the dominant heat source inside the water snowline of V883
