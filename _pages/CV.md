@@ -35,13 +35,6 @@ h-index = 18
 
 ### Selected Papers: 
 
-1. **Alarcón, F.**, & Bergin, E. A., submitted to ApJ
-   Thermal Structure and Millimeter Emission of Protoplanetary Disks with Embedded Planets
-   from radiative transfer modeling.
-<!---
-2. **Alarcón, F.**, Bergin, E. A. & Cugno G. submitted to ApJ
- Extinction values towards embedded planets in protoplanetary disks hydrodynamic simulations.
--->
 3. **Alarcón, F.**, Casassus, S., Lyra, W., P ́erez, S., Cieza, L., submitted to MNRAS
 Viscous heating as the dominant heat source inside the water snowline of V883
 
