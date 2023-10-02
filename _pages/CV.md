@@ -33,8 +33,11 @@ de Asuntos Academicos, Universidad de Chile, 2017-2018.
 ## Contributions
 
 h-index = 18
+
 Refereed Publications: 23 (3 as 1st author+ 2 as 2nd author)
+
 Submitted Publications: 8 (3 as 1st author)
+
 Number of Citations: 786
 
 ### 1st Author Papers: 
