@@ -15,6 +15,7 @@ title: "Curriculum Vitae"
  - **B.Sc in Astronomy** -- Universidad de Chile, March 2014 - December 2016
  - **M.Sc in Astronomy** -- Universidad de Chile, March 2017 - January 2019
  - **Ph.D in Astronomy** -- University of Michigan, September 2018 - 2024(expected)
+ - **Graduate Certificate in Data Science** -- University of Michigan,  2024(expected)
 
 ## Achievements, Awards and Grants (from the most recent)
 
@@ -32,8 +33,17 @@ de Asuntos Academicos, Universidad de Chile, 2017-2018.
 ## Contributions
 
 h-index = 18
+Refereed Publications: 23 (3 as 1st author+ 2 as 2nd author)
+Submitted Publications: 8 (3 as 1st author)
+Number of Citations: 786
 
-### Selected Papers: 
+### 1st Author Papers: 
+
+1. **Alarcón, F.** , Bergin, E., Cugno, G. to be submitted to ApJ
+Extinction values towards embedded planets in protoplanetary disks estimated from hydrodynamic simulations
+
+2. **Alarcón, F.** & Bergin, Edwin, submitted to ApJ
+Thermal Structure and Millimeter Emission of Protoplanetary Disk with embedded protoplanets from  radiative transfer modeling
 
 3. **Alarcón, F.**, Casassus, S., Lyra, W., P ́erez, S., Cieza, L., submitted to MNRAS
 Viscous heating as the dominant heat source inside the water snowline of V883
@@ -53,7 +63,7 @@ planetary Disk with Planet Carved Gaps and Dust Rings.
 
 
 
-### Other Papers(* denotes 2nd author):
+### Other Refereed Papers(* denotes 2nd author):
 
 7. * Bosman, A. D.,**Alarcón, F.**, Bergin, E. A., et al. 2021b, arXiv e-prints,
 arXiv:2109.06221. https://arxiv.org/abs/2109.06221. Molecules with ALMA at
@@ -71,62 +81,64 @@ Drives the Final Stage of Protoplanetary Disk Chemistry.
 11. Berné, O., Martin-Drumel, MA., Schroetter, I. et al. Formation of the Methyl
 Cation by Photochemistry in a Protoplanetary Disk. Nature (2023). https://doi.org/10.1038/s415
 023-06307-x
+
+12. Galloway-Sprietsma, M., Bae, J., Teague, R., et al. 2023, ApJ, 950, 147, Molecules with ALMA at Planet-forming Scales (MAPS): Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds. https://doi.org/10.3847/1538-4357/accae4
    
-12. Bae, J., Teague, R., Andrews, S. M., et al. 2022, 934, L20. doi:10.3847/2041-
+13. Bae, J., Teague, R., Andrews, S. M., et al. 2022, 934, L20. doi:10.3847/2041-
 8213/ac7fa3. Molecules with ALMA at Planet-forming Scales (MAPS): A Cir-
 cumplanetary Disk Candidate in Molecular-line Emission in the AS 209 Disk.
 
-13. Berné O., Habart  ́E., Peeters E., Abergel A., Bergin E. A., Bernard-Salas
+14. Berné O., Habart  ́E., Peeters E., Abergel A., Bergin E. A., Bernard-Salas
 J., Bron E., et al., 2022, PASP, 134, 054301. doi:10.1088/1538-3873/ac604c.
 PDRs4All: A JWST Early Release Science Program on Radiative Feedback
 from Massive Stars.
 
-14. Öberg, K. I., Guzman, V. V., Walsh, C., et al. 2021, arXiv e-prints,
+15. Öberg, K. I., Guzman, V. V., Walsh, C., et al. 2021, arXiv e-prints,
 arXiv:2109.06268. https://arxiv.org/abs/2109.06268. Molecules with ALMA at
 Planet-forming Scales (MAPS) I: Program Overview and Highlights.
 
-15. Law, C. J., Loomis, R. A., Teague, R., et al. 2021a, arXiv e-prints, arXiv:2109.06210.
+16. Law, C. J., Loomis, R. A., Teague, R., et al. 2021a, arXiv e-prints, arXiv:2109.06210.
 https://arxiv.org/abs/2109.06210. Molecules with ALMA at Planet-forming
 Scales (MAPS) III: Characteristics of Radial Chemical Substructures.
 
-16. Law, C. J., Teague, R., Loomis, R. A., et al. 2021b, arXiv e-prints, arXiv:2109.06217.
+17. Law, C. J., Teague, R., Loomis, R. A., et al. 2021b, arXiv e-prints, arXiv:2109.06217.
 https://arxiv.org/abs/2109.06217. Molecules with ALMA at Planet-forming
 Scales (MAPS) IV: Emission Surfaces and Vertical Distribution of Molecules.
 
-17. Zhang, K., Booth, A. S., Law, C. J., et al. 2021, arXiv e-prints, arXiv:2109.06233.
+18. Zhang, K., Booth, A. S., Law, C. J., et al. 2021, arXiv e-prints, arXiv:2109.06233.
 https://arxiv.org/abs/2109.06233. Molecules with ALMA at Planet-forming
 Scales (MAPS) V: CO gas distributions.
 
-18. Guzmán, V. V., Bergner, J. B., Law, C. J., et al. 2021, arXiv e-prints,
+19. Guzmán, V. V., Bergner, J. B., Law, C. J., et al. 2021, arXiv e-prints,
 arXiv:2109.06391.
 https://arxiv.org/abs/2109.06391. Molecules with ALMA at Planet-forming
 Scales (MAPS) VI: Distribution of the small organics HCN, C2H, and H2CO.
 
-19. Bosman, A. D., Bergin, E. A., Loomis, R. A., et al. 2021b, arXiv e-prints,
+20. Bosman, A. D., Bergin, E. A., Loomis, R. A., et al. 2021b, arXiv e-prints,
 arXiv:2109.06223.
 https://arxiv.org/abs/2109.06223. Molecules with ALMA at Planet-forming
 Scales (MAPS). XV. Tracing protoplanetary disk structure within 20 au.
 
-20. Calahan, J. K., Bergin, E. A., Zhang, K., et al. 2021, arXiv e-prints, arXiv:2109.06202.
+21. Calahan, J. K., Bergin, E. A., Zhang, K., et al. 2021, arXiv e-prints, arXiv:2109.06202.
 https://arxiv.org/abs/2109.06202. Molecules with ALMA at Planet-forming
 Scales (MAPS) XVII: Determining the 2D Thermal Structure of the HD 163296
 Disk.
 
-21. Schwarz, K. R., Calahan, J. K., Zhang, K., et al. 2021, arXiv e-prints, arXiv:2109.06228.
+22. Schwarz, K. R., Calahan, J. K., Zhang, K., et al. 2021, arXiv e-prints, arXiv:2109.06228.
 https://arxiv.org/abs/2109.06228. Molecules with ALMA at Planet-forming
 Scales. XX. The Massive Disk Around GM Aurigae.
 
-22. Pérez, S.,Casassus, S., Hales, A., et al. 2020, ApJ, 889, L24. Long Baseline
+23. Pérez, S.,Casassus, S., Hales, A., et al. 2020, ApJ, 889, L24. Long Baseline
 Observations of the HD 100546 Protoplanetary Disk with ALMA
 
-23. Baruteau, C., Barraza, M., P ́erez, S., et al. 2019, MNRAS, 486, 304. Dust
+24. Baruteau, C., Barraza, M., P ́erez, S., et al. 2019, MNRAS, 486, 304. Dust
 traps in the protoplanetary disc MWC 758: two vortices produced by two giant
 planets?
 
-24. Casassus S. et al., 2019, MNRAS, 483, 3278. Cm-wavelength observations of
+25. Casassus S. et al., 2019, MNRAS, 483, 3278. Cm-wavelength observations of
 MWC 758: resolved dust trapping in a vortex
 
-25. Casassus S. et al., 2018, MNRAS, 477, 5104. An inner warp in the DoAr 44 T
+26. Casassus S. et al., 2018, MNRAS, 477, 5104. An inner warp in the DoAr 44 T
 Tauri transition disc
 
 ### Talks:
