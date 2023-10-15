@@ -42,7 +42,7 @@ Number of Citations: 786
 
 ### 1st Author Papers: 
 
-1. **Alarcón, F.** , Bergin, E., Cugno, G. to be submitted to ApJ
+1. **Alarcón, F.** , Bergin, E., Cugno, G.  submitted to ApJ
 Extinction values towards embedded planets in protoplanetary disks estimated from hydrodynamic simulations
 
 2. **Alarcón, F.** & Bergin, Edwin, submitted to ApJ
