@@ -47,7 +47,7 @@ Extinction Values toward Embedded Planets in Protoplanetary Disks Estimated from
 2. **Alarcón, F.** & Bergin, Edwin, ApJ, 967, 144 (2024)
 Thermal Structure and Millimeter Emission of Protoplanetary Disk with embedded protoplanets from  radiative transfer modeling
 
-3. **Alarcón, F.**, Casassus, S., Lyra, W., P ́erez, S., Cieza, L., MNRAS, 527, 9655 (2024).
+3. **Alarcón, F.**, Casassus, S., Lyra, W., Pérez, S., Cieza, L., MNRAS, 527, 9655 (2024).
 Viscous heating as the dominant heat source inside the water snowline of V883 Ori
 
 4. **Alarcón, F.**, Bergin, E. A., Teague, R. 2022, ApJL, 941, L24, doi: 10.3847/2041-
@@ -82,7 +82,7 @@ Drives the Final Stage of Protoplanetary Disk Chemistry.
 
 11. Van De Putte, Meshaka, Trahin et al. arXiv, arXiv:2404.03111 (2024). “PDRs4All VIII: Mid-IR emission line inventory of the Orion Bar”
 
-12. Schroetter, Berné, Joblin et al. A\&A, 685, A78 (2024). “PDRs4All. VII. The 3.3 μm aromatic infrared band as a tracer of physical properties of the interstellar medium in galaxies” 
+12. Schroetter, Berné, Joblin et al. A&A, 685, A78 (2024). “PDRs4All. VII. The 3.3 μm aromatic infrared band as a tracer of physical properties of the interstellar medium in galaxies” 
 
 13. Berné, Habart, Peeters et al. Sci, 383, 988 (2024). “A far-ultraviolet–driven photoevaporation flow observed in a protoplanetary disk” 
 
@@ -90,7 +90,7 @@ Drives the Final Stage of Protoplanetary Disk Chemistry.
 
 15. Elyajouri, Ysard, Abergel et al. A&A, 685, A76 (2024). “PDRs4All. V. Modelling the dust evolution across the illuminated edge of the Orion Bar” 
 
-16. Peeters, Habart, Bern ́e et al. arXiv, arXiv :2310.08720 (2023)
+16. Peeters, Habart, Berné et al. arXiv, arXiv :2310.08720 (2023)
 PDRs4All III : JWST’s NIR spectroscopic view of the Orion Bar”
 
 17. Zannese, Tabone, Habart et al. NatAs (2024). ”OH as a probe of the warm water cycle in planet-forming disks” 
