@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Felipe Alarcón Peña"
   avatar : "/assets/images/felipe-alarcon.jpeg"
-  bio    : "  I am a Ph.D.(c) in Astronomy at Umich working under the supervision of Dr. Edwin(Ted) Bergin. I am mostly interested in the chemistry of planet formation processes."
+  bio    : "  I am a Ph.D. in Astronomy. I am mostly interested in the discovery of protoplanets and the chemistry of planet formation."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
