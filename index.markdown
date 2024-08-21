@@ -9,8 +9,8 @@
 
 My name is Felipe Alarcón Peña. 
 
-I’m a Chilean Ph.D candidate at the University of Michigan trying to understand the chemistry in planet-forming disks.
-My work is mostly based in hydrodynamics and thermochemical  simulations of disks along with observations of them in the millimetric wavelenghts.
+I’m a Chilean Dr. in Astronomy and Astrophysics from the University of Michigan. I try to understand the chemistry in planet-forming disks and to describe the birth environments of protoplanets.
+My work is mostly based in hydrodynamics and thermochemical  simulations of disks along with observations of them in the millimetric and infrared wavelengths.
 
 
 
