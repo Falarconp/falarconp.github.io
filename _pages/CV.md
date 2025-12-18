@@ -56,10 +56,9 @@ Viscous heating as the dominant heat source inside the water snowline of V883 Or
 8213/aca6e6 A localized kinematic structure detected in atomic carbon emission
 spatially coincident with a proposed protoplanet in the HD 163296 disk
 
-5. **Alarcón, F.**, Bosman, A., Bergin, E., et al. 2021, ApJS. 257, 8
-https://arxiv.org/abs/2109.06263. Molecules with ALMA at Planet-forming
+5. **Alarcón, F.**, Bosman, A., Bergin, E., et al. 2021, ApJS. 257, 8. "Molecules with ALMA at Planet-forming
 Scales(MAPS) VIII: CO Gap in AS 209–Gas Depletion or Chemical Process-
-ing?
+ing?"
 
 6. **Alarcón, F.**, Teague, R., Zhang, K., Bergin, E. A., Barraza-Alfaro, M. 2020,
 ApJ, 905, 68, doi: 10.3847/1538-4357/abc1d6. Chemical Evolution in a Proto-
@@ -71,7 +70,7 @@ planetary Disk with Planet Carved Gaps and Dust Rings.
 
 #### Major and/or Significant Contributions:
 
-7. *Van Clepper, **Alarcón**, Ciesla et al.  ApJL, 994, L44 (2025) “Dust Recycling in Protoplanetary Disks: A Novel Method of Volatile Enrichment in Embedded Giant Planets”
+7. * Van Clepper, **Alarcón**, Ciesla et al.  ApJL, 994, L44 (2025) “Dust Recycling in Protoplanetary Disks: A Novel Method of Volatile Enrichment in Embedded Giant Planets”
 
 8. * Raul, E., **Alarcón, F.**, and Bergin, E. ApJ, 982, 155 (2025) "Tracking the Chemical Evolution of Hydrocarbons Through Carbon Grain Supply in Protoplanetary Disks” 
 
@@ -99,35 +98,35 @@ Drives the Final Stage of Protoplanetary Disk Chemistry.
 #### Author Contributions and/or Data Reduction:
 
 
-18. “JWST-MIRI Observations of the Irradiated Chemistry in the Inner Disk Cavity of GM Aur.” Romero-Mirza, Öberg, Banzatti et al. ApJ, 991, 128 (2025)
+18. Romero-Mirza, Öberg, Banzatti et al. ApJ, 991, 128 (2025) “JWST-MIRI Observations of the Irradiated Chemistry in the Inner Disk Cavity of GM Aur.” 
 
-19. "PDRs4All XV: CH radical and H$_3^+$ molecular ion in the irradiated protoplanetary disk d203-506” Schroetter, Berné, Goicoechea et al. arXiv, arXiv:2506.05186 (2025)
+19. Schroetter, Berné, Goicoechea et al. arXiv, arXiv:2506.05186 (2025) "PDRs4All XV: CH radical and H$_3^+$ molecular ion in the irradiated protoplanetary disk d203-506” 
 
-20. "PDRs4All: XIV. Probing CH out-of-plane bending modes of PAH molecules in the Orion Bar with JWST” Khan, Abbott, Peeters et al. A\&A, 699, A133 (2025)
+20. Khan, Abbott, Peeters et al. A&A, 699, A133 (2025) "PDRs4All: XIV. Probing CH out-of-plane bending modes of PAH molecules in the Orion Bar with JWST”
 
-21. "A solar C/O ratio in planet-forming gas at 1 au in a highly irradiated disk” Schroetter, Berné, Bron et al. Nat Astron (2025). https://doi.org/10.1038/s41550-025-02596-6
+21. Schroetter, Berné, Bron et al. Nat Astron (2025). https://doi.org/10.1038/s41550-025-02596-6 "A solar C/O ratio in planet-forming gas at 1 au in a highly irradiated disk” 
 
-22. "PDRs4All: XIII. Empirical prescriptions for the interpretation of JWST imaging observations of star-forming regions” Chown, Okada, Peeters et al. A\&A, 698, A86 (2025)
+22. Chown, Okada, Peeters et al. A&A, 698, A86 (2025) "PDRs4All: XIII. Empirical prescriptions for the interpretation of JWST imaging observations of star-forming regions” 
 
-23. "PDRs4All: XII. Far-ultraviolet-driven formation of simple hydrocarbon radicals and their relation with polycyclic aromatic hydrocarbons” Goicoechea, Pety, Cuadrado et al. A\&A, 696, A100 (2025)
+23. Goicoechea, Pety, Cuadrado et al. A&A, 696, A100 (2025) "PDRs4All: XII. Far-ultraviolet-driven formation of simple hydrocarbon radicals and their relation with polycyclic aromatic hydrocarbons” 
 
-24.  “PDRs4All: X. ALMA and JWST detection of neutral carbon in the externally irradiated disk d203-506: Undepleted gas-phase carbon” Goicoechea, Le Bourlot, Black et al. A\&A, 689, L4 (2024)
+24. Goicoechea, Le Bourlot, Black et al. A&A, 689, L4 (2024) “PDRs4All: X. ALMA and JWST detection of neutral carbon in the externally irradiated disk d203-506: Undepleted gas-phase carbon” 
 
-25. "PDRs4All. IX. Sulfur elemental abundance in the Orion Bar” Fuente, Roueff, Le Petit et al. A\&A, 687, A87 (2024)
+25. Fuente, Roueff, Le Petit et al. A&A, 687, A87 (2024) "PDRs4All. IX. Sulfur elemental abundance in the Orion Bar” 
 
-26. “PDRs4All. VII. The 3.3 μm aromatic infrared band as a tracer of physical properties of the interstellar medium in galaxies” Schroetter, Berné, Joblin et al. A\&A, 685, A78 (2024)
+26. Schroetter, Berné, Joblin et al. A&A, 685, A78 (2024) “PDRs4All. VII. The 3.3 μm aromatic infrared band as a tracer of physical properties of the interstellar medium in galaxies” 
 
-27. “PDRs4All. VI. Probing the photochemical evolution of PAHs in the Orion Bar using machine learning techniques” Pasquini, Peeters, Schefter et al. A\&A, 685, A77 (2024)
+27. Pasquini, Peeters, Schefter et al. A&A, 685, A77 (2024) “PDRs4All. VI. Probing the photochemical evolution of PAHs in the Orion Bar using machine learning techniques” 
 
-28. "OH as a probe of the warm-water cycle in planet-forming disks” Zannese, Tabone, Habart et al. NatAs, 8, 577 (2024)
+28. Zannese, Tabone, Habart et al. NatAs, 8, 577 (2024) "OH as a probe of the warm-water cycle in planet-forming disks” 
 
-29.“Astronomical CH3+ rovibrational assignments. A combined theoretical and experimental study validating observational findings in the d203-506 UV-irradiated protoplanetary disk”  Changala, Chen, Li et al. A\&A, 680, A19.
+29. Changala, Chen, Li et al. A&A, 680, A19. “Astronomical CH3+ rovibrational assignments. A combined theoretical and experimental study validating observational findings in the d203-506 UV-irradiated protoplanetary disk”  
 
-30. “PDRs4All. V. Modelling the dust evolution across the illuminated edge of the Orion Bar” Elyajouri, Ysard, Abergel et al. A\&A, 685, A76 (2024)
+30. Elyajouri, Ysard, Abergel et al. A&A, 685, A76 (2024) “PDRs4All. V. Modelling the dust evolution across the illuminated edge of the Orion Bar” 
 
-31. "PDRs4All: III. JWST's NIR spectroscopic view of the Orion Bar” Peeters, Habart, Berné et al. A\&A, 685, A74 (2024)
+31. Peeters, Habart, Berné et al. A&A, 685, A74 (2024) "PDRs4All: III. JWST's NIR spectroscopic view of the Orion Bar” 
 
-32. “PDRs4All. II. JWST's NIR and MIR imaging view of the Orion Nebula” Habart, Peeters, Berné et al. A\&A, 685, A73 (2024)
+32. Habart, Peeters, Berné et al. A&A, 685, A73 (2024) “PDRs4All. II. JWST's NIR and MIR imaging view of the Orion Nebula” 
 
 33. Galloway-Sprietsma, M., Bae, J., Teague, R., et al. 2023, ApJ, 950, 147, Molecules with ALMA at Planet-forming Scales (MAPS): Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds. https://doi.org/10.3847/1538-4357/accae4
    
