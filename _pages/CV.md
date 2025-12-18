@@ -39,7 +39,7 @@ h-index = 24
 
 Publications: : 46 refereed publications(6 as 1st author + 5 as 2nd author) + 4 under review (2 as 1st author)
 
-Number of Citations: 10945
+Number of Citations: 1945
 
 ### 1st Author Papers: 
 
