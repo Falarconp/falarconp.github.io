@@ -21,8 +21,7 @@ title: "Hello"
 
 My name is Felipe Alarcón Peña. 
 I’m a Chilean Dr. in Astronomy & Astrophysics from the University of Michigan trying to detect and find more protoplanets, while understanding the chemistry in planet-forming disks.
-My work is mostly based in hydrodynamics and thermochemical  simulations of disks along with observations of them in radio wavelengths with ALMA and in the infrared as well.
-
+I currently work at the Università degli Studi di Milano (UniMi) in the UNVEIL ERC group led by Prof. Stefano Facchini. My work is mostly based in observations of protoplanetary disks in radio wavelengths with ALMA and in the infrared as well. I also use  hydrodynamics and thermochemical  simulations of disks to study the chemistry of planet formation.
 
 
 
