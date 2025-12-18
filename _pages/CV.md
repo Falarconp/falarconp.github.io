@@ -70,7 +70,7 @@ planetary Disk with Planet Carved Gaps and Dust Rings.
 
 #### Major and/or Significant Contributions:
 
-7. * Van Clepper, **Alarcón**, Ciesla et al.  ApJL, 994, L44 (2025) “Dust Recycling in Protoplanetary Disks: A Novel Method of Volatile Enrichment in Embedded Giant Planets”
+7. * Van Clepper,E., **Alarcón,F.**, Ciesla et al.  ApJL, 994, L44 (2025) “Dust Recycling in Protoplanetary Disks: A Novel Method of Volatile Enrichment in Embedded Giant Planets”
 
 8. * Raul, E., **Alarcón, F.**, and Bergin, E. ApJ, 982, 155 (2025) "Tracking the Chemical Evolution of Hydrocarbons Through Carbon Grain Supply in Protoplanetary Disks” 
 
@@ -186,13 +186,13 @@ Tauri transition disc
 #### Other submitted papers (* denotes 2nd):
 
 
-47. Yoshihide, \textbf{Alarcón} et al, submitted to ApJL. “Silicon Sulfide Isotopologues Reveal Silicate Sublimation in the Outer Disk of PDS 66” 
+47. Yoshihide, **Alarcón** et al, submitted to ApJL. “Silicon Sulfide Isotopologues Reveal Silicate Sublimation in the Outer Disk of PDS 66” 
 
-48. \textbf{Alarcón}, Facchini, Trapman et al, submitted to ApJL. “exoALMA XXIII: Formaldehyde emission in protoplanetary disks of exoALMA compared with their properties and dynamical state.” 
+48. **Alarcón, F.**, Facchini, S., Trapman et al, submitted to ApJL. “exoALMA XXIII: Formaldehyde emission in protoplanetary disks of exoALMA compared with their properties and dynamical state.” 
 
-49. Khan, Daza Rodriguez, Peeters et al. submitted to A\&A "PDRs4All: XIX. The 6 to 9$\mu$m region as a probe of PAH charge and size in the Orion Bar.” 
+50. Khan, Daza Rodriguez, Peeters et al. submitted to A\&A "PDRs4All: XIX. The 6 to 9$\mu$m region as a probe of PAH charge and size in the Orion Bar.” 
 
-50. Armitage, Williams, Zhang et al. submitted to ApJ, in review (2025) "Tracing Pebble Drift History in Two Protoplanetary Disks with CO Enhancement"
+51. Armitage, Williams, Zhang et al. submitted to ApJ, in review (2025) "Tracing Pebble Drift History in Two Protoplanetary Disks with CO Enhancement"
 
 
 ### Talks:
@@ -254,7 +254,7 @@ Michigan.
 ## Observing Proposals
 
 - PI of ALMA Proposal 2024.1.01515 (3.8 h), ranked C, Cycle 11
-- PI of ALMA Proposal 2023.1.00901.S. ($\sim$16 h), ranked B, Cycle 10
+- PI of ALMA Proposal 2023.1.00901.S. (~16 h , ranked B, Cycle 10
 - PI of Magellan/Clay telescope Proposal 2024A, half-night
 - PI of ALMA Proposal 2022.1.01308.S., ranked C, Cycle 9 
 - Co-I of JWST Program 7340 (8.9 h), Cycle 4
