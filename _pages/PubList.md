@@ -7,9 +7,9 @@ title: "List of Publications"
 
 h-index = 26
 
-Publications: : 52 refereed publications(8 as 1st author + 5 as 2nd author) 
+Publications: : 53 refereed publications (9 as 1st author + 5 as 2nd author) 
 
-Number of Citations: 2307
+Number of Citations: 2307 (NASA/ADS)
 
 ### 1st Author Papers: 
 
