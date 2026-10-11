@@ -9,6 +9,10 @@ h-index = 26
 
 Publications: : 53 refereed publications (9 as 1st author + 5 as 2nd author) 
 
+[Personal ADS Library](https://ui.adsabs.harvard.edu/public-libraries/Mxh4muBKS_O87dZ0VLndDA)
+
+ORCID: [0000-0002-2692-7862](https://orcid.org/0000-0002-2692-7862)
+
 Number of Citations: 2307 (NASA/ADS)
 
 ### 1st Author Papers: 
@@ -16,31 +20,31 @@ Number of Citations: 2307 (NASA/ADS)
 1. **Alarcón, F.**, Chowbay, Facchini et al, accepted for publication in A\&A Letters.
 EK Cha b: multi-tracer detection of a planetary-mass companion candidate in a gas-rich environment.
 
-2. **Alarcón, F.**, Facchini, Trapman et al, ApJL, 1000, L32.
+3. **Alarcón, F.**, Facchini, Trapman et al, ApJL, 1000, L32.
 exoALMA. XXIV. Formaldehyde Emission in Protoplanetary Disks of exoALMA Compared with Their Properties
 and Dynamical State.
 
-3. Yoshida, **Alarcón** et al, ApJL, 999, L22 (2026). *shared first authorship
+4. Yoshida, **Alarcón** et al, ApJL, 999, L22 (2026). *shared first authorship
 Silicon Sulfide Isotopologues Reveal Silicate Sublimation in the Outer Disk of PDS 66
 
-4. **Alarcón, F.** , Bergin, E., Cugno, G., ApJ, 966, 225 (2024)
+5. **Alarcón, F.** , Bergin, E., Cugno, G., ApJ, 966, 225 (2024)
 Extinction Values toward Embedded Planets in Protoplanetary Disks Estimated from Hydrodynamic Simulations
 
-5. **Alarcón, F.** & Bergin, Edwin, ApJ, 967, 144 (2024)
+6. **Alarcón, F.** & Bergin, Edwin, ApJ, 967, 144 (2024)
 Thermal Structure and Millimeter Emission of Protoplanetary Disk with embedded protoplanets from  radiative transfer modeling
 
-6. **Alarcón, F.**, Casassus, S., Lyra, W., Pérez, S., Cieza, L., MNRAS, 527, 9655 (2024).
+7. **Alarcón, F.**, Casassus, S., Lyra, W., Pérez, S., Cieza, L., MNRAS, 527, 9655 (2024).
 Viscous heating as the dominant heat source inside the water snowline of V883 Ori
 
-7. **Alarcón, F.**, Bergin, E. A., Teague, R. 2022, ApJL, 941, L24, doi: 10.3847/2041-
+8. **Alarcón, F.**, Bergin, E. A., Teague, R. 2022, ApJL, 941, L24, doi: 10.3847/2041-
 8213/aca6e6 A localized kinematic structure detected in atomic carbon emission
 spatially coincident with a proposed protoplanet in the HD 163296 disk
 
-8. **Alarcón, F.**, Bosman, A., Bergin, E., et al. 2021, ApJS. 257, 8. "Molecules with ALMA at Planet-forming
+9. **Alarcón, F.**, Bosman, A., Bergin, E., et al. 2021, ApJS. 257, 8. "Molecules with ALMA at Planet-forming
 Scales(MAPS) VIII: CO Gap in AS 209–Gas Depletion or Chemical Process-
 ing?"
 
-9. **Alarcón, F.**, Teague, R., Zhang, K., Bergin, E. A., Barraza-Alfaro, M. 2020,
+10. **Alarcón, F.**, Teague, R., Zhang, K., Bergin, E. A., Barraza-Alfaro, M. 2020,
 ApJ, 905, 68, doi: 10.3847/1538-4357/abc1d6. Chemical Evolution in a Proto-
 planetary Disk with Planet Carved Gaps and Dust Rings.
 
