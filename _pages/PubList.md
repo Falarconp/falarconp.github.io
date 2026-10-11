@@ -3,28 +3,6 @@ permalink: /PubList/
 title: "List of Publications"
 ---
 
-[⬇ Download List of P]("/_pages/Pub_List_FA.pdf")
-
-<a href="{{ '/_pages/Pub_List_FA.pdf' | relative_url }}" download
-   style="display:inline-block;
-          padding:10px 20px;
-          background-color:#0969da;
-          color:white;
-          text-decoration:none;
-          border-radius:6px;">
-  ⬇ Download PDF
-</a>
-
-<a href="{{ '/_pages/Pub_List_FA.pdf' | relative_url }}" download
-   style="display:inline-block;
-          padding:10px 20px;
-          background-color:#0969da;
-          color:white;
-          text-decoration:none;
-          border-radius:6px;">
-  ⬇ Download List
-</a>
-
 ## Publication List
 
 h-index = 26
@@ -36,6 +14,16 @@ Publications: : 53 refereed publications (9 as 1st author + 5 as 2nd author)
 ORCID: [0000-0002-2692-7862](https://orcid.org/0000-0002-2692-7862)
 
 Number of Citations: 2307 (NASA/ADS)
+
+<a href="{{ '/_pages/Pub_List_FA.pdf' | relative_url }}" download
+   style="display:inline-block;
+          padding:8px 18px;
+          background-color:#0969da;
+          color:white;
+          text-decoration:none;
+          border-radius:5px;">
+  ⬇ Download Publication List in PDF
+</a>
 
 ### 1st Author Papers: 
 
