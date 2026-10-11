@@ -3,10 +3,27 @@ permalink: /PubList/
 title: "List of Publications"
 ---
 
-<iframe src="Pub_List_FA.pdf" width="100%" height="600px">
-    Your browser does not support PDF visualization. 
-    <a href="Pub_List_FA.pdf"> Download PDF here</a>.
-</iframe>
+[⬇ Download List of P]("/_pages/Pub_List_FA.pdf")
+
+<a href="{{ '/_pages/Pub_List_FA.pdf' | relative_url }}" download
+   style="display:inline-block;
+          padding:10px 20px;
+          background-color:#0969da;
+          color:white;
+          text-decoration:none;
+          border-radius:6px;">
+  ⬇ Download PDF
+</a>
+
+<a href="{{ '/_pages/Pub_List_FA.pdf' | relative_url }}" download
+   style="display:inline-block;
+          padding:10px 20px;
+          background-color:#0969da;
+          color:white;
+          text-decoration:none;
+          border-radius:6px;">
+  ⬇ Download List
+</a>
 
 ## Publication List
 
