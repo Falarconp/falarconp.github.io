@@ -3,6 +3,11 @@ permalink: /PubList/
 title: "List of Publications"
 ---
 
+<iframe src="Pub_List_FA.pdf" width="100%" height="600px">
+    Your browser does not support PDF visualization. 
+    <a href="Pub_List_FA.pdf"> Download PDF here</a>.
+</iframe>
+
 ## Publication List
 
 h-index = 26
