@@ -3,6 +3,16 @@ permalink: /CV/
 title: "Curriculum Vitae"
 ---
 
+<a href="{{ '/_pages/CV_FA.pdf' | relative_url }}" download
+   style="display:inline-block;
+          padding:8px 18px;
+          background-color:#0969da;
+          color:white;
+          text-decoration:none;
+          border-radius:4px;">
+  ⬇ CV in PDF
+</a>
+
 ## Personal Data
 
  - **Given Names**: Felipe Mauricio
