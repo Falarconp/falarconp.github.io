@@ -3,7 +3,7 @@ permalink: /CV/
 title: "Curriculum Vitae"
 ---
 
-<a href="{{ '/_pages/CV_FA.pdf' | relative_url }}" download
+<a href="{{ '/_pages/FA_CV.pdf' | relative_url }}" download
    style="display:inline-block;
           padding:8px 18px;
           background-color:#0969da;
