@@ -5,7 +5,7 @@ title: "List of Publications"
 
 ## Publication List
 
-h-index = 26
+h-index = 27
 
 Publications: : 53 refereed publications (9 as 1st author + 5 as 2nd author) 
 
@@ -13,7 +13,7 @@ Publications: : 53 refereed publications (9 as 1st author + 5 as 2nd author)
 
 ORCID: [0000-0002-2692-7862](https://orcid.org/0000-0002-2692-7862)
 
-Number of Citations: 2307 (NASA/ADS)
+Number of Citations: 2590 (NASA/ADS)
 
 <a href="{{ '/_pages/Pub_List_FA.pdf' | relative_url }}" download
    style="display:inline-block;
