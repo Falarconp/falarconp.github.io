@@ -7,7 +7,7 @@ title: "List of Publications"
 
 h-index = 27
 
-Publications: : 53 refereed publications (9 as 1st author + 5 as 2nd author) 
+Publications: : 54 refereed publications (9 as 1st author + 5 as 2nd author) 
 
 [Personal ADS Library](https://ui.adsabs.harvard.edu/public-libraries/Mxh4muBKS_O87dZ0VLndDA)
 
@@ -27,10 +27,10 @@ Number of Citations: 2590 (NASA/ADS)
 
 ### 1st Author Papers: 
 
-1. **Alarcón, F.**, Chowbay, Facchini et al, accepted for publication in A\&A Letters.
-EK Cha b: multi-tracer detection of a planetary-mass companion candidate in a gas-rich environment.
+1. **Alarcón, F.**, Chowbay, Facchini et al, A&A, 715, L10 (2026).
+EK Cha b: Multi-tracer detection of a protoplanet candidate in a gas-rich environment.
 
-3. **Alarcón, F.**, Facchini, Trapman et al, ApJL, 1000, L32.
+3. **Alarcón, F.**, Facchini, Trapman et al, ApJL, 1000, L32 (2026).
 exoALMA. XXIV. Formaldehyde Emission in Protoplanetary Disks of exoALMA Compared with Their Properties
 and Dynamical State.
 
