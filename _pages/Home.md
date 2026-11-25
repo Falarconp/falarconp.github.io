@@ -18,11 +18,18 @@ title: "Hello"
 ---
 
 
+Hi, I’m Felipe Alarcón. I’m an astronomer from Santiago, Chile. I was in fact an engineering student at the Universidad de Chile, back when I first saw the ALMA interferometer’s image of HL Tau my career choice shifted to look upwards. I wanted to know what could make those rings and gaps, and whether a young planet might be hiding in one of them. That image is a big part of why I became an astronomer. I started by studying how gas moves in disks. Then, during my PhD at the University of Michigan, I began asking what the chemistry of that gas could tell us about how disks evolve.
+ 
+I’m now a postdoctoral fellow in Stefano Facchini’s UNVEIL group at the University of Milan. I love it when a model gives me a reason to look somewhere new. My models of how dust obscures young planets led me to search archival observations of disks with faint millimeter emission. In one of those disks, I found EK Cha b, a protoplanet candidate with novel approaches to how planet formation can be understood.
 
-My name is Felipe Alarcón Peña. 
-I’m a Chilean Dr. in Astronomy & Astrophysics from the University of Michigan trying to detect and find more protoplanets, while understanding the chemistry in planet-forming disks.
-I currently work at the Università degli Studi di Milano (UniMi) in the UNVEIL ERC group led by Prof. Stefano Facchini. My work is mostly based in observations of protoplanetary disks in radio wavelengths with ALMA and in the infrared as well. I also use  hydrodynamics and thermochemical  simulations of disks to study the chemistry of planet formation.
+These days, I’m trying to understand how the chemistry of gas changes as it moves through a disk and what that might tell us about the material a planet grows from. I’m also leading a James Webb Space Telescope program that uses light from a background source to look for molecular hydrogen in the disk around V4046 Sgr. I like the idea that something behind a disk can help us work out what’s inside it.
 
+Thanks for stopping by. You can find more about my path in my CV, or explore the papers behind these projects.
+
+<p>
+  <a class="btn btn--primary" href="/CV/">View my CV</a>
+  <a class="btn btn--primary" href="/PubList/">Browse my publications</a>
+</p>
 
 
 
