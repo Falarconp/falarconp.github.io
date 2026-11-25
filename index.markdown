@@ -1,3 +1,4 @@
+classes: wide
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -34,7 +35,6 @@ Protoplanetary disks are thought to be the birth places of planets and as such t
 
 ![MAPS Gallery, Oberg et al 2021, Law et al, 2021](/assets/images/maps.png)
 
-</figure>
 
 <style>
   .page__content > p {
