@@ -28,6 +28,7 @@ Thanks for stopping by. You can find more about my path in my CV, or explore the
 
 <p>
   <a class="btn btn--primary" href="/CV/">View my CV</a>
+  
   <a class="btn btn--primary" href="/PubList/">Browse my publications</a>
 </p>
 
