@@ -6,6 +6,7 @@
 classes: wide
 permalink: /
 title: "Felipe Alarcón Peña"
+author_profile: true
 sidebar:
   - image: /assets/images/where-planets-form.webp
     image_alt: "Summary of my research"
